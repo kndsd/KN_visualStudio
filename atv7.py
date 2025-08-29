@@ -25,3 +25,4 @@ else:
   print("obesidade 3")
 
     
+print(imc)
